@@ -1,5 +1,8 @@
 <?php
 
-namespace Main;
+$greeting = 'Hi there! Click "Show code" or visit my GitHub: github.com/dnisaev';
+print_r($greeting);
 
-require_once 'xtask.php';
+// namespace Main;
+
+// require_once 'xtask.php';
